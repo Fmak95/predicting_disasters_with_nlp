@@ -1,6 +1,8 @@
 # Predicting Disasters with NLP
 A text classification model that uses twitter data to determine if a tweet is about a real disaster or not. The dataset can be found <a href="https://www.kaggle.com/c/nlp-getting-started">here.</a>
 
+**NOTE:** This notebook was originally created via google colab and viewing it via this <a href="https://colab.research.google.com/drive/16mqxNMrQ9txpwZ0bSGRxnauFPkaAYltc">link</a> might be better in terms of readibility.
+
 ## Introduction
 Twitter has become an important communication channel in times of emergency. With smartphones, people are able to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
